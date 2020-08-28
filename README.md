@@ -2,7 +2,7 @@
 
 Compiled project, including installable games for macOS, Windows and Linux.
 
-Source code is available in app_files/src.
+Source code is available in `app_files/src`.
 
 Quick instructions for those who want to build from source:
 1. Make sure you have either Python 3.5 or Python 3.6 (>= 3.7 is not yet supported by fbs).
