@@ -4,9 +4,10 @@ Compiled project, including installable games for macOS, Windows and Linux.
 
 *********************************************************
 *********************************************************
-**** Goodies are in app_files                        ****
-**** Choose the folder for the platform you're using ****
-****                                                 ****
+Goodies are in app_files
+
+Choose the folder for the platform you're using
+
 *********************************************************
 *********************************************************
 
